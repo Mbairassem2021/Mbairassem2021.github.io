@@ -1,0 +1,180 @@
+body, html{
+    padding: auto;
+    margin: 15px;
+    background: url('img/logoCPMCOPIE.png') repeat;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    border: 1px solid #3498DB;
+    
+}
+
+
+
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+/* header */
+.header{
+    background-color: rgb(213, 220, 224);
+    height: 70px;
+    line-height: 70px;
+
+}
+
+.ls .list  u a{
+    font-size: 15px;
+}
+
+.ls {
+    padding-left: 450px;
+
+}
+
+.ls .list  u a:hover{
+    text-decoration: #3498DB;
+}
+
+
+.logo{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    float: left;
+}
+.image{
+    height: 60px;
+    
+    max-width: 100%;
+}
+.navbar{
+    margin-bottom: 0;
+}
+.menu{
+    float: right;
+    padding-top: 10px;
+}
+
+/*banniere*/
+
+.banner{
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+
+.ban{
+    width: 100%;
+    max-width: 100%;
+    position: relative;
+    border: 1px solid #3498DB;
+    border-radius: 5px;
+}
+
+
+.ban img{
+    width: 100%;
+     max-width: 100%; 
+     padding: 0 ;   
+}
+
+.inner-banner{
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+}
+
+.inner-banner h1{
+    color: #ffffff;
+    text-shadow: 1px 1px 20px #000000;
+}
+
+.navbar-inverse .menu .list ul a{
+    font-size: 20px;
+    color:#000000;
+}
+
+.header ah1:hover{
+    border-bottom: 1px solid blue;
+}
+
+/*about*/
+
+.about{
+    padding: 20px;
+    margin-top: 95px;
+}
+.about-title{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 0 15px;
+    font-size: 40px;
+}
+.separator{
+    height: 3px;
+    width: 15%;
+    border: none;
+    box-shadow: none;
+    background-color: #3498DB;
+}
+.about article{
+    text-align: justify;
+    margin-top: 5px;
+}
+
+.about h2{
+    text-align: center;
+}
+
+.hAp{
+    width: 400px;
+    margin: auto;
+    
+}
+/*portfolio*/
+.galerie{
+    background-color: rgb(233, 240, 245);
+    margin-bottom:20px; 
+}
+
+#galerie{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom:0px; 
+}
+
+article{
+    margin: auto;
+}
+
+.galerie .item-folio .img-thumbnail{
+    background-color: rgb(113, 187, 236);
+}
+
+.galerie article img{
+    width: 100%;
+    max-width: 100%; 
+}
+
+.col-md-4{
+    text-align: center;
+}
+.section-title h2{
+    font-size: 40px;
+}
+.devise{
+    text-align: center;
+}
+/*.img-thumbnail{
+    width: 100%;
+    max-width: 100%; 
+}
+contact*/
+
+
+
